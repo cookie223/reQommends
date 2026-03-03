@@ -2,7 +2,7 @@
 
 Curated homelab + AI-assistant open-source tools.
 
-Last updated: 2026-03-03 08:17 EST
+Last updated: 2026-03-03 08:25 EST
 Method: popularity + recent development activity + freshness. Meta-list repositories are excluded.
 
 ## Recommended Sections
@@ -14,7 +14,7 @@ Method: popularity + recent development activity + freshness. Meta-list reposito
 
 ### Homelab Infrastructure (3)
 
-1. #13 [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 (★37541 | last push 2026-03-03). Works best with: [n8n-io/n8n](https://github.com/n8n-io/n8n), [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise).
+1. #13 [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 (★37542 | last push 2026-03-03). Works best with: [n8n-io/n8n](https://github.com/n8n-io/n8n), [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise).
 1. #17 [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 (★27495 | last push 2026-03-03). Works best with: [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise), [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet).
 1. #29 [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (★14186 | last push 2026-03-02). Works best with: [n8n-io/n8n](https://github.com/n8n-io/n8n), [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium).
 
@@ -24,7 +24,7 @@ Method: popularity + recent development activity + freshness. Meta-list reposito
 1. #4 [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (★131036 | last push 2026-03-03). Works best with: [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [mem0ai/mem0](https://github.com/mem0ai/mem0).
 1. #5 [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (★87671 | last push 2026-03-02). Works best with: [mem0ai/mem0](https://github.com/mem0ai/mem0), [mudler/LocalAI](https://github.com/mudler/LocalAI).
 1. #6 [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent (★72954 | last push 2026-03-03). Works best with: [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [mem0ai/mem0](https://github.com/mem0ai/mem0).
-1. #8 [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond. (★58309 | last push 2026-03-03). Works best with: [mem0ai/mem0](https://github.com/mem0ai/mem0), [mudler/LocalAI](https://github.com/mudler/LocalAI).
+1. #8 [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond. (★58319 | last push 2026-03-03). Works best with: [mem0ai/mem0](https://github.com/mem0ai/mem0), [mudler/LocalAI](https://github.com/mudler/LocalAI).
 1. #9 [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (★55312 | last push 2026-03-03). Works best with: [ollama/ollama](https://github.com/ollama/ollama), [mem0ai/mem0](https://github.com/mem0ai/mem0).
 1. #10 [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually (★49644 | last push 2026-03-03). Works best with: [langfuse/langfuse](https://github.com/langfuse/langfuse), [mem0ai/mem0](https://github.com/mem0ai/mem0).
 1. #15 [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model s (★34283 | last push 2026-03-03). Works best with: [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT), [mem0ai/mem0](https://github.com/mem0ai/mem0).
@@ -46,9 +46,9 @@ Method: popularity + recent development activity + freshness. Meta-list reposito
 
 ### Knowledge & Memory (5)
 
-1. #11 [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (★48529 | last push 2026-03-02). Works best with: [langgenius/dify](https://github.com/langgenius/dify), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl).
+1. #11 [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents (★48530 | last push 2026-03-02). Works best with: [langgenius/dify](https://github.com/langgenius/dify), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl).
 1. #14 [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (★34856 | last push 2026-03-03). Works best with: [n8n-io/n8n](https://github.com/n8n-io/n8n), [lobehub/lobehub](https://github.com/lobehub/lobehub).
-1. #20 [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, a (★22556 | last push 2026-03-03). Works best with: [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl).
+1. #20 [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, a (★22557 | last push 2026-03-03). Works best with: [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise), [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl).
 1. #25 [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. (★17997 | last push 2026-03-03). Works best with: [langgenius/dify](https://github.com/langgenius/dify), [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise).
 1. #26 [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM (★17677 | last push 2026-03-03). Works best with: [langgenius/dify](https://github.com/langgenius/dify), [simstudioai/sim](https://github.com/simstudioai/sim).
 
